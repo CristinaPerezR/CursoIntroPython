@@ -87,8 +87,8 @@ Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
 
 
-###Posdata:
-##El equipo que estoy usando es prestado, por ello el nombre en la terminal es diferente al mío.
+## #Posdata:
+## El equipo que estoy usando es prestado, por ello el nombre en la terminal es diferente al mío.
 
 Curso Propedútico de Python para Launch X - Innovacción Virtual.
 
