@@ -34,7 +34,7 @@ Crea un entorno virtual mediante ``venv``
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
-![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
+![image](https://github.com/CristinaPerezR/CursoIntroPython/blob/407a123c5a8d748b5eb0e0d4f662db9a7d97c9e0/images/entornovirtual.PNG)
 
 ## Instalar una biblioteca
 
@@ -66,6 +66,8 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     python-dateutil==2.8.2
     six==1.16.0
     ```
+ 
+![image](https://github.com/CristinaPerezR/CursoIntroPython/blob/407a123c5a8d748b5eb0e0d4f662db9a7d97c9e0/images/Pipfreeze.PNG)
 
 ### Desactivar un entorno virtual
 
@@ -78,8 +80,15 @@ deactivate
 
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
+
+![image](https://github.com/CristinaPerezR/CursoIntroPython/blob/407a123c5a8d748b5eb0e0d4f662db9a7d97c9e0/images/deactivate.PNG)
+
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
+
+
+###Posdata:
+##El equipo que estoy usando es prestado, por ello el nombre en la terminal es diferente al mío.
 
 Curso Propedútico de Python para Launch X - Innovacción Virtual.
 
